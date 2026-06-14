@@ -1,6 +1,7 @@
 🌲 Le Cèdre, un arbre fraîcheur !
 Analyse des cèdres parisiens et de leur contribution aux îlots de fraîcheur urbains
-    
+   <img width="509" height="558" alt="cedre" src="https://github.com/user-attachments/assets/3bf974a0-5825-4d1a-8208-69926cebb503" />
+ 
 
 📖 Contexte
 Face au réchauffement climatique, les arbres jouent un rôle essentiel dans la régulation thermique des villes. Parmi eux, le Cèdre se distingue par sa longévité, sa résistance à la sécheresse et sa capacité à prospérer dans des environnements difficiles.
